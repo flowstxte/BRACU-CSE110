@@ -1,3 +1,3 @@
 # BRACU-CSE110
 
-Semester-Fall2022
+Semester - Fall2022
